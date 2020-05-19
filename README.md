@@ -10,7 +10,7 @@ Medical insurance is becoming more of a neccessity as awareness keeps rising. In
 
 To run this project you will need to install the following:
 
-1. Python 3.5 and above
+1. Python 3.5 or above
 2. Scikit-learn
 3. Numpy
 4. Pandas
